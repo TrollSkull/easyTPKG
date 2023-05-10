@@ -11,7 +11,7 @@ This tool is coded in python :}
 ## INSTALLATION
 ### One line installation.
 ```bash
-$ apt install -y git python; git clone https://github.com/TrollSkull/easyTPKG; cd easyTPKG; python easyTPKG.py
+apt install -y git python; git clone https://github.com/TrollSkull/easyTPKG; cd easyTPKG; python easyTPKG.py
 ```
 
 You can download easyTPKG on any platform by cloning the official Git repository:
