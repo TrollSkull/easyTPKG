@@ -10,6 +10,7 @@ This tool is coded in python :}
 
 ## INSTALLATION
 ### One line installation.
+Just copy this line and paste in the terminal.
 ```bash
 apt install -y git python; git clone https://github.com/TrollSkull/easyTPKG; cd easyTPKG; python easyTPKG.py
 ```
