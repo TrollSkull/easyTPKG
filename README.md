@@ -1,4 +1,4 @@
-# easy Termux Package
+# Easy Termux Package
 
 [![Version](https://img.shields.io/badge/Version-1.0-green)]()
 [![Bash](https://img.shields.io/badge/Made%20with-Python-blue)]()
