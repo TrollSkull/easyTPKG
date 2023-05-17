@@ -6,8 +6,6 @@
 
 easyTPKG is a tool to download packages for Termux automatically, with good optimization and code usage, coded by **[TrollSkull](https://github.com/TrollSkull)**.
 
-This tool is coded in python :}
-
 ## INSTALLATION
 ### One line installation.
 Just copy this line and paste in the terminal.
