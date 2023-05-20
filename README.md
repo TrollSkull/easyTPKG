@@ -4,7 +4,7 @@
 [![Bash](https://img.shields.io/badge/Made%20with-Python-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
-easyTPKG is a tool to download packages for Termux automatically, with good optimization and code usage, coded by **[TrollSkull](https://github.com/TrollSkull)**.
+easyTPKG is a tool to install packages for Termux automatically, with good optimization and code usage, coded by **[TrollSkull](https://github.com/TrollSkull)**.
 
 ## INSTALLATION
 ### One line installation.
