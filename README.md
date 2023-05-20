@@ -1,4 +1,4 @@
-# Easy Termux Package
+# Easy Termux Package installer tool
 
 [![Version](https://img.shields.io/badge/Version-1.1-green)]()
 [![Bash](https://img.shields.io/badge/Made%20with-Python-blue)]()
