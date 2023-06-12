@@ -1,6 +1,6 @@
 # Easy Termux Package installer tool
 
-[![Version](https://img.shields.io/badge/Version-1.2green)]()
+[![Version](https://img.shields.io/badge/Version-1.2-green)]()
 [![Bash](https://img.shields.io/badge/Made%20with-Python-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
